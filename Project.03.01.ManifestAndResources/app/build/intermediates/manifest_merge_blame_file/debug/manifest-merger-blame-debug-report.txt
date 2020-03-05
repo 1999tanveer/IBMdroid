@@ -1,0 +1,33 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.paad.myapp"
+4    android:versionCode="1"
+5    android:versionName="0.9 Beta" >
+6
+7    <uses-sdk android:targetSdkVersion="28" />
+7-->C:\Users\TanveerTanveer\AndroidStudioProjects\Andorid.Code1\Project.03\Project.03.01.ManifestAndResources\app\src\main\AndroidManifest.xml
+8
+9    <application
+9-->C:\Users\TanveerTanveer\AndroidStudioProjects\Andorid.Code1\Project.03\Project.03.01.ManifestAndResources\app\src\main\AndroidManifest.xml:8:5-19:19
+10        android:debuggable="true"
+11        android:testOnly="true" >
+12        <activity
+12-->C:\Users\TanveerTanveer\AndroidStudioProjects\Andorid.Code1\Project.03\Project.03.01.ManifestAndResources\app\src\main\AndroidManifest.xml:10:9-17:20
+13            android:name="com.techhue.android.MyActivity"
+13-->C:\Users\TanveerTanveer\AndroidStudioProjects\Andorid.Code1\Project.03\Project.03.01.ManifestAndResources\app\src\main\AndroidManifest.xml:11:13-58
+14            android:label="@string/app_name" >
+14-->C:\Users\TanveerTanveer\AndroidStudioProjects\Andorid.Code1\Project.03\Project.03.01.ManifestAndResources\app\src\main\AndroidManifest.xml:12:13-45
+15            <intent-filter>
+15-->C:\Users\TanveerTanveer\AndroidStudioProjects\Andorid.Code1\Project.03\Project.03.01.ManifestAndResources\app\src\main\AndroidManifest.xml:13:13-16:29
+16                <action android:name="android.intent.action.MAIN" />
+16-->C:\Users\TanveerTanveer\AndroidStudioProjects\Andorid.Code1\Project.03\Project.03.01.ManifestAndResources\app\src\main\AndroidManifest.xml:14:17-69
+16-->C:\Users\TanveerTanveer\AndroidStudioProjects\Andorid.Code1\Project.03\Project.03.01.ManifestAndResources\app\src\main\AndroidManifest.xml:14:25-66
+17
+18                <category android:name="android.intent.category.LAUNCHER" />
+18-->C:\Users\TanveerTanveer\AndroidStudioProjects\Andorid.Code1\Project.03\Project.03.01.ManifestAndResources\app\src\main\AndroidManifest.xml:15:17-77
+18-->C:\Users\TanveerTanveer\AndroidStudioProjects\Andorid.Code1\Project.03\Project.03.01.ManifestAndResources\app\src\main\AndroidManifest.xml:15:27-74
+19            </intent-filter>
+20        </activity>
+21    </application>
+22
+23</manifest>

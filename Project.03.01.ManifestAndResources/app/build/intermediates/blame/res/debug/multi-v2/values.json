@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\TanveerTanveer\\AndroidStudioProjects\\Andorid.Code1\\Project.03\\Project.03.01.ManifestAndResources\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\TanveerTanveer\\AndroidStudioProjects\\Andorid.Code1\\Project.03\\Project.03.01.ManifestAndResources\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "8",
+                        "startOffsets": "25",
+                        "endColumns": "49",
+                        "endOffsets": "66"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "452",
+                        "endColumns": "45",
+                        "endOffsets": "493"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\TanveerTanveer\\AndroidStudioProjects\\Andorid.Code1\\Project.03\\Project.03.01.ManifestAndResources\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "8",
+                        "startOffsets": "25",
+                        "endColumns": "46",
+                        "endOffsets": "63"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "364",
+                        "endColumns": "42",
+                        "endOffsets": "402"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\TanveerTanveer\\AndroidStudioProjects\\Andorid.Code1\\Project.03\\Project.03.01.ManifestAndResources\\app\\src\\main\\res\\values\\simple_values.xml",
+                    "from": {
+                        "startLines": "14,9,7,8,3,2",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "490,347,251,302,103,55",
+                        "endLines": "18,13,7,8,6,2",
+                        "endColumns": "12,19,50,44,14,47",
+                        "endOffsets": "600,485,297,342,246,98"
+                    },
+                    "to": {
+                        "startLines": "2,7,12,14,16,20",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,170,313,407,498,646",
+                        "endLines": "6,11,12,14,19,20",
+                        "endColumns": "12,19,50,44,14,47",
+                        "endOffsets": "165,308,359,447,641,689"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\TanveerTanveer\\AndroidStudioProjects\\Andorid.Code1\\Project.03\\Project.03.01.ManifestAndResources\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,5,4,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "103,55,225,176,272",
+                        "endColumns": "72,47,46,48,46",
+                        "endOffsets": "171,98,267,220,314"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "694,767,815,862,911",
+                        "endColumns": "72,47,46,48,46",
+                        "endOffsets": "762,810,857,906,953"
+                    }
+                }
+            ]
+        }
+    ]
+}

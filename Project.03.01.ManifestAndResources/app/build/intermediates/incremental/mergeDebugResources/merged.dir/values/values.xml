@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="integer_array">
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </array>
+    <string-array name="string_array">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+    </string-array>
+    <color name="app_background">#FF0000FF</color>
+    <color name="opaque_blue">#00F</color>
+    <dimen name="default_border">5dp</dimen>
+    <dimen name="standard_border">5dp</dimen>
+    <plurals name="androidPlural">
+        <item quantity="one">One android</item>
+        <item quantity="other">%d androids</item>
+    </plurals>
+    <string name="app_name">To Do List</string>
+    <string name="detonate_description">Project.03.01.NotListed</string>
+    <string name="hello">Hello World, </string>
+    <string name="refresh_mi">Refresh</string>
+    <string name="settings_mi">Settings</string>
+    <string name="stop_message">Stop.</string>
+</resources>
