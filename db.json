@@ -1,5 +1,5 @@
 {
-  "profile":[
+  "AVRGHB":
     {
     "name":"Ahmad_H",
     "email": "ahmad@in.ibm.com",
@@ -7,19 +7,18 @@
     "phone": "8667562921",
     "imgUrl": "temp.img.com"
     },
-    {
+   "AVRGH8": {
     "name":"Deepanshu",
     "email": "avrgh8@in.ibm.com",
     "uniqueId": "AVRGH8",
     "phone": "8667562921",
     "imgUrl": "temp.img.com"
     },
-    {
+   "AVRGH6": {
     "name":"Gurkirat",
     "email": "avrgh6@in.ibm.com",
     "uniqueId": "AVRGH6",
     "phone": "9876543210",
     "imgUrl": "temp.img.com"
     }
-  ]
 }
