@@ -1,12 +1,12 @@
 {
- {
+"profile":{
 "name":"Ahmad_H",
 "email": "ahmad@in.ibm.com",
 "uniqueId": "AVRGHB",
 "phone": "8667562921",
 "imgUrl": "temp.img.com"
 },
- {
+"profile1":{
 "name":"abc",
 "email": "avrgh8@in.ibm.com",
 "uniqueId": "AVRGH8",
