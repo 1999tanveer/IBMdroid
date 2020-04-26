@@ -1,7 +1,7 @@
 {
   "AVRGHB":
     {
-    "name":"Ahmad_H",
+    "name":"Ahmad",
     "email": "ahmad@in.ibm.com",
     "uniqueId": "AVRGHB",
     "phone": "8667562921",
@@ -9,16 +9,23 @@
     },
    "AVRGH8": {
     "name":"Deepanshu",
-    "email": "avrgh8@in.ibm.com",
+    "email": "deepanshu@in.ibm.com",
     "uniqueId": "AVRGH8",
-    "phone": "8667562921",
+    "phone": "9876543210",
     "imgUrl": "temp.img.com"
     },
    "AVRGH6": {
     "name":"Gurkirat",
-    "email": "avrgh6@in.ibm.com",
+    "email": "gurkirat@in.ibm.com",
     "uniqueId": "AVRGH6",
-    "phone": "9876543210",
+    "phone": "9876598765",
+    "imgUrl": "temp.img.com"
+    },
+   "AVRGH4": {
+    "name":"Akash",
+    "email": "akash@in.ibm.com",
+    "uniqueId": "AVRGH4",
+    "phone": "9898989898",
     "imgUrl": "temp.img.com"
     }
 }
